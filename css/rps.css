@@ -1,0 +1,12 @@
+/*
+---- proprietary style for Stephen Fox's RPS game. DON'T YOU DARE STEAL THIS BLEEDING EDGE TECH!!!!!
+*/
+h1 {
+    font-size: 4em;
+    line-height: 4rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1:first-child{
+    margin-top: calc(50vh - 4rem);
+}
